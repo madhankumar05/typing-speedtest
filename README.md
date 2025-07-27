@@ -13,9 +13,11 @@ Displays the chosen text for the user to type.
 Measures the time elapsed during typing.
 Calculates accuracy (percentage of correct characters).
 Computes words per minute (WPM).
+
 Additional Functionality:
 Checks for extra or missing characters.
 Prompts the user to try again.
+
 How to Use
 Compile the program:
 javac TypingSpeedTest.java
