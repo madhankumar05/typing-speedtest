@@ -7,6 +7,7 @@ Features
 Text Selection:
 Choose between typing a sentence or a paragraph.
 Randomly selects a text snippet from predefined arrays.
+
 Test Execution:
 Displays the chosen text for the user to type.
 Measures the time elapsed during typing.
